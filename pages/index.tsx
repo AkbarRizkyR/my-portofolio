@@ -1,7 +1,7 @@
 import React from 'react';
 import Head from 'next/head'
 import Image from 'react-image'
-import Navbar from '../component/Navbar.jsx'
+import Navbar from '../component/Navbar'
 
 export default function Home() {
   return (
